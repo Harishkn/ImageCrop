@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ImageCrop_Example' do
+  pod 'ImageCrop', :path => '../'
+
+  target 'ImageCrop_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
