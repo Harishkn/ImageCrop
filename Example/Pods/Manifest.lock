@@ -1,0 +1,16 @@
+PODS:
+  - ImageCrop (0.1.0)
+
+DEPENDENCIES:
+  - ImageCrop (from `../`)
+
+EXTERNAL SOURCES:
+  ImageCrop:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ImageCrop: 2256b7b84c0986c40aafcea20c8fc4d6987136cb
+
+PODFILE CHECKSUM: 2661c71e988de0bd9d47cd35551cfefc13a38975
+
+COCOAPODS: 1.10.1

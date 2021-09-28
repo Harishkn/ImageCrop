@@ -1,0 +1,6 @@
+framework module ImageCrop {
+  umbrella header "ImageCrop-umbrella.h"
+
+  export *
+  module * { export * }
+}

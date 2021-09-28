@@ -1,0 +1,22 @@
+{
+  "name": "ImageCrop",
+  "version": "0.1.0",
+  "summary": "A short description of ImageCrop.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Harishkn/ImageCrop",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Harishkn": "harisha.kn@getvymo.com"
+  },
+  "source": {
+    "git": "https://github.com/Harishkn/ImageCrop.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ImageCrop/Classes/**/*"
+}
